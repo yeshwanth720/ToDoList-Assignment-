@@ -52,7 +52,7 @@ This repository contains a basic To-Do application developed using ReactJS. The 
 - JavaScript
 
 ## Live 
-- [clickMe]{https://todorepo.vercel.app/}
+- [clickMe](https://todorepo.vercel.app/)
 
 ## Author
 [Vatti yeshwanth](https://github.com/yeshwanth720)
